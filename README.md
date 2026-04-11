@@ -7,4 +7,16 @@ This repository comprises my own solutions to LeetCode problems in Python and SQ
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/ice-leo/LeetCode-Python-SQL/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/ice-leo/LeetCode-Python-SQL/tree/main/0054-spiral-matrix/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/ice-leo/LeetCode-Python-SQL/tree/main/0054-spiral-matrix/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/ice-leo/LeetCode-Python-SQL/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
