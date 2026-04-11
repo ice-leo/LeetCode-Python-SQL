@@ -1,3 +1,4 @@
+```sql
 -- Write your PostgreSQL query statement below
 WITH ranked AS (
         SELECT
