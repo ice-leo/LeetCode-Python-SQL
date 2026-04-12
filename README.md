@@ -7,6 +7,7 @@ This repository comprises my own solutions to LeetCode problems in Python and SQ
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/ice-leo/LeetCode-Python-SQL/tree/main/0176-second-highest-salary/) | Medium |
+| [0182-duplicate-emails](https://github.com/ice-leo/LeetCode-Python-SQL/tree/main/0182-duplicate-emails/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/ice-leo/LeetCode-Python-SQL/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0608-tree-node](https://github.com/ice-leo/LeetCode-Python-SQL/tree/main/0608-tree-node/) | Medium |
 | [0626-exchange-seats](https://github.com/ice-leo/LeetCode-Python-SQL/tree/main/0626-exchange-seats/) | Medium |
