@@ -13,6 +13,22 @@ class Solution(object):
             for p in self.permute(remaining):
                 perms.append([num] + p)
         return perms
+
+"""
+Mental picture:
+[1,2,3]
+ ├── 1 + permute([2,3])
+ │     ├── 2 + [3]
+ │     └── 3 + [2]
+ │
+ ├── 2 + permute([1,3])
+ │     ├── 1 + [3]
+ │     └── 3 + [1]
+ │
+ └── 3 + permute([1,2])
+       ├── 1 + [2]
+       └── 2 + [1]
+"""
     
 
         
