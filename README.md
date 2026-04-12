@@ -13,6 +13,7 @@ This repository comprises my own solutions to LeetCode problems in Python and SQ
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/ice-leo/LeetCode-Python-SQL/tree/main/0046-permutations/) | Medium |
 | [0054-spiral-matrix](https://github.com/ice-leo/LeetCode-Python-SQL/tree/main/0054-spiral-matrix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -22,4 +23,8 @@ This repository comprises my own solutions to LeetCode problems in Python and SQ
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/ice-leo/LeetCode-Python-SQL/tree/main/0054-spiral-matrix/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/ice-leo/LeetCode-Python-SQL/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
