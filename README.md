@@ -16,6 +16,7 @@ This repository comprises my own solutions to LeetCode problems in Python and SQ
 | ------- | ------- |
 | [0046-permutations](https://github.com/ice-leo/LeetCode-Python-SQL/tree/main/0046-permutations/) | Medium |
 | [0054-spiral-matrix](https://github.com/ice-leo/LeetCode-Python-SQL/tree/main/0054-spiral-matrix/) | Medium |
+| [0704-binary-search](https://github.com/ice-leo/LeetCode-Python-SQL/tree/main/0704-binary-search/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,4 +29,8 @@ This repository comprises my own solutions to LeetCode problems in Python and SQ
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/ice-leo/LeetCode-Python-SQL/tree/main/0046-permutations/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/ice-leo/LeetCode-Python-SQL/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
