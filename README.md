@@ -14,6 +14,7 @@ This repository comprises my own solutions to LeetCode problems in Python and SQ
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ice-leo/LeetCode-Python-SQL/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/ice-leo/LeetCode-Python-SQL/tree/main/0035-search-insert-position/) | Easy |
 | [0046-permutations](https://github.com/ice-leo/LeetCode-Python-SQL/tree/main/0046-permutations/) | Medium |
 | [0054-spiral-matrix](https://github.com/ice-leo/LeetCode-Python-SQL/tree/main/0054-spiral-matrix/) | Medium |
@@ -34,7 +35,12 @@ This repository comprises my own solutions to LeetCode problems in Python and SQ
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ice-leo/LeetCode-Python-SQL/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/ice-leo/LeetCode-Python-SQL/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/ice-leo/LeetCode-Python-SQL/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ice-leo/LeetCode-Python-SQL/tree/main/0875-koko-eating-bananas/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ice-leo/LeetCode-Python-SQL/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
